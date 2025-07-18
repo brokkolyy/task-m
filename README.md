@@ -21,8 +21,8 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/your-username/task-manager.git
-   cd task-manager
+   git clone  https://github.com/brokkolyy/task-m.git
+   cd task-m
 2. Установите зависимости:
    ```bash
    npm install
